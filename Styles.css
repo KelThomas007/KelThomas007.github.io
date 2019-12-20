@@ -1,3 +1,6 @@
 .hero {
-  background-image: url("https://unsplash.com/photos/ttJ-qnuboak");
+  background-image: url("./heroPhoto.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
 }
