@@ -2,11 +2,10 @@
   background-image: url("./heroPhoto.jpeg");
   background-repeat: no-repeat;
   background-size: cover;
-  min-height: 500px;
+  min-height: 350px;
 }
-
-.title {
-  color: red;
-  font-weight: bold;
-  font-style: italic;
-}
+.music  {
+    background-image: url("./Music.jpg");
+    background-repeat: no-repeat;
+    background-size: center;
+    min-height: 400px;
