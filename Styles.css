@@ -19,7 +19,11 @@
 }
 
 .pictureItem {
-  width: 100px !important;
+  width: 250px !important;
+}
+
+.active {
+  width: 350px !important;
 }
 
 .lead {
