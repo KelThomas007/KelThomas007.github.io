@@ -1,6 +1,52 @@
 .hero {
-  background-image: url("./heroPhoto.jpeg");
+  background-image: url("./Lions.png");
   background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 500px;
+  background-size: contain;
+  min-height: 350px;
+  margin-left: 75px;
+}
+
+.music {
+  background-image: url("./Music.jpg");
+  background-repeat: no-repeat;
+  background-size: center;
+}
+
+.boldparagraph {
+  color: cornflowerblue;
+  font-weight: 1000;
+  margin-left: -25px;
+}
+
+.pictureItem {
+  width: 250px !important;
+}
+
+.active {
+  width: 350px !important;
+}
+
+.lead {
+  color: rgb(3, 8, 3);
+  font-weight: 500;
+  font-size: x-large;
+}
+
+.second {
+  color: slategray;
+  font-weight: 1000;
+  font-size: x-large;
+  margin-left: -135px;
+}
+.badgebadge-secondary {
+  color: cornflowerblue;
+  font-weight: 1000;
+  font-style: italic;
+  margin-left: -125px;
+}
+.World {
+  color: rgb(0, 0, 0);
+  font-weight: 1000;
+  font-size: xx-large;
+  margin-left: 25px;
 }
